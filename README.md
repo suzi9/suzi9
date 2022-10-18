@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm Zuza</h1>
+<h1 align="center">Hi 👋, I'm Zuzanna Krężel</h1>
